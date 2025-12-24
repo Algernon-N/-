@@ -1,0 +1,7 @@
+{
+  "name": "Pink Cyber-Christmas 3D",
+  "description": "An immersive 3D Christmas experience with instanced geometry and gesture-inspired interactions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
